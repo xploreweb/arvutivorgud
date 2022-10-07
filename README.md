@@ -1,6 +1,6 @@
 # arvutivorgud
 
-## alampealkiri - Sissejuhatud
+## alampealkiri - Sissejuhatus
 Tere-tere.
 
 ## loetuelu
